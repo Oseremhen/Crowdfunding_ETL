@@ -26,5 +26,5 @@ Create the Contacts DataFrame
 
 Create the Crowdfunding Database
 
-![ETL_ERD](https://user-images.githubusercontent.com/106120403/214965167-5ca9856c-77a9-4182-b481-b5e9a38dc0db.png)
+![ERD_ETL_](https://user-images.githubusercontent.com/106120403/214975040-130087ee-f167-48a5-8bde-bebff093d2b6.png)
 
