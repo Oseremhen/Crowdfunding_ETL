@@ -28,9 +28,3 @@ Create the Crowdfunding Database
 
 ![ETL_ERD](https://user-images.githubusercontent.com/106120403/214965167-5ca9856c-77a9-4182-b481-b5e9a38dc0db.png)
 
-<img width="425" alt="image_category_table" src="https://user-images.githubusercontent.com/106120403/214965219-10d6c293-0c0e-4953-8a5f-ee6ad67ab1f4.png">
-
-<img width="448" alt="image_subcategory_table" src="https://user-images.githubusercontent.com/106120403/214965333-1fb2dc6d-cf27-4620-8e64-f11246730f0b.png">
-
-<img width="732" alt="image_contact_table" src="https://user-images.githubusercontent.com/106120403/214965351-7e021ee5-72fd-4655-b8a3-0620893946cd.png">
-
